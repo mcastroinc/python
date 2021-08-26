@@ -91,5 +91,4 @@ if __name__ == '__main__':
         sys.exit()
     print get(sys.argv[1])
     
-    
-    print ('hello world - this is jenkins integration')
+   
