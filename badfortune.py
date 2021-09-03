@@ -92,6 +92,4 @@ if __name__ == '__main__':
     print get(sys.argv[1])
     
     
-#hello
 
-print('hello')
